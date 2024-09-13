@@ -49,7 +49,7 @@ let addresses = [
 	'time.is',
 	'www.wto.org:8443',
 	'chatgpt.com:2087',
-	'icook.hk',
+	'cdn-b100.xn--b6gac.eu.org',
 	'104.17.0.0#IPv4',
 	'[2606:4700::]#IPv6'
 	*/
